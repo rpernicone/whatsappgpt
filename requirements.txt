@@ -3,3 +3,4 @@ openai
 twilio
 pyngrok
 python-decouple
+urllib3==1.26.6 
